@@ -4,7 +4,7 @@ body{
 	background-color:#f5f5f5;
 }
 
-div{
+.container{
 	box-sizing:border-box;
 	background-color:white;
 	margin:10px;
